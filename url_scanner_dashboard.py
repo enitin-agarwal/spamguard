@@ -31,7 +31,7 @@ data = pd.read_csv('url_dataset.csv')
 
 
 # Initialize your LLM API key
-llm_api_key = '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'  # Replace with your GPT-3 API key
+llm_api_key = ''  # Replace with your GPT-3 API key
 
 # Initialize your LLM instance
 openai.api_key = llm_api_key
